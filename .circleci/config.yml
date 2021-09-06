@@ -109,6 +109,6 @@ workflows:
           filters:
               branches:
                 only:
-                  - test_ci
+                  - master
           context: 
             - devops
